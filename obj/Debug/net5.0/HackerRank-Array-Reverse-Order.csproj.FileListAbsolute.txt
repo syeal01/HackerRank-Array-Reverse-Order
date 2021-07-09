@@ -1,0 +1,16 @@
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Array-Reverse-Order\bin\Debug\net5.0\HackerRank-Array-Reverse-Order.exe
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Array-Reverse-Order\bin\Debug\net5.0\HackerRank-Array-Reverse-Order.deps.json
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Array-Reverse-Order\bin\Debug\net5.0\HackerRank-Array-Reverse-Order.runtimeconfig.json
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Array-Reverse-Order\bin\Debug\net5.0\HackerRank-Array-Reverse-Order.runtimeconfig.dev.json
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Array-Reverse-Order\bin\Debug\net5.0\HackerRank-Array-Reverse-Order.dll
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Array-Reverse-Order\bin\Debug\net5.0\ref\HackerRank-Array-Reverse-Order.dll
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Array-Reverse-Order\bin\Debug\net5.0\HackerRank-Array-Reverse-Order.pdb
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Array-Reverse-Order\obj\Debug\net5.0\HackerRank-Array-Reverse-Order.csproj.AssemblyReference.cache
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Array-Reverse-Order\obj\Debug\net5.0\HackerRank-Array-Reverse-Order.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Array-Reverse-Order\obj\Debug\net5.0\HackerRank-Array-Reverse-Order.AssemblyInfoInputs.cache
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Array-Reverse-Order\obj\Debug\net5.0\HackerRank-Array-Reverse-Order.AssemblyInfo.cs
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Array-Reverse-Order\obj\Debug\net5.0\HackerRank-Array-Reverse-Order.csproj.CoreCompileInputs.cache
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Array-Reverse-Order\obj\Debug\net5.0\HackerRank-Array-Reverse-Order.dll
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Array-Reverse-Order\obj\Debug\net5.0\ref\HackerRank-Array-Reverse-Order.dll
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Array-Reverse-Order\obj\Debug\net5.0\HackerRank-Array-Reverse-Order.pdb
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Array-Reverse-Order\obj\Debug\net5.0\HackerRank-Array-Reverse-Order.genruntimeconfig.cache
